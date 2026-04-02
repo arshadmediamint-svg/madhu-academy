@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+
+# Build output
+/dist/
+/build/
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+
+# Coverage
+coverage/
+
+# Miscellaneous
+.DS_Store
+.env
+.vscode/
